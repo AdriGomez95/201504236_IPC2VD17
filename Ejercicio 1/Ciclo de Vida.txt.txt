@@ -1,0 +1,17 @@
+----------------------Ciclo de Vida del Software-----------------------
+
+*Analisis de requerimientos: En esta fase se hace un analisis detallado de todos
+los requerimientos que el cliente nos esta pidiendo para el proyecto o programa
+
+
+*Analisis y diseño: Esta fase se basa en la descripcion de la arquitectura de dicho
+proyecto.
+
+
+*Pruebas del software: Es la fase donde se realizan las verificaciones y 
+validaciones del proyecto
+
+
+*Mantenimiento: Mantenimiento del software.
+
+

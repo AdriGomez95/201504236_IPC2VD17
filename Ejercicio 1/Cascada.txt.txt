@@ -1,0 +1,6 @@
+--------------------------------Metodología Cascada--------------------------------
+
+Esta metodología es caracterizada porque para que una nueva fase empiece, debe 
+esperar a que la fase anterior del ciclo de vida del software haya terminado.
+Tambien al final de cada fase se puede hacer una revision final para poder determinar
+si el proyecto está listo para seguir avanzando.

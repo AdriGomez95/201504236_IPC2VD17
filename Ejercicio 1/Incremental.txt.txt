@@ -1,0 +1,5 @@
+------------------------------Modelo Incremental----------------------------------
+
+
+Este modelo se caracteriza por combinar todos los elementos del modelo en cascada
+para la propia construccion de prototipos.
